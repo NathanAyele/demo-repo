@@ -1,11 +1,9 @@
-# Demo
+---
+description: Page Description 1
+---
 
-Some description!
+# Page 1
 
-## Subheader
+Page content 1 here
 
-Watch tutorial on Youtube.
-
-### Local Development
-
-1. Open index.html on your browser.
+$$f(x) = x * e^{2 pi i \xi x}$$
