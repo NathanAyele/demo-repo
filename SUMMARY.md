@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Introduction](README.md)
+* [Proposed Methods](proposed-methods.md)
+* [Significance of Findings and Future Work](significance-of-findings-and-future-work.md)
